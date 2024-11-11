@@ -328,3 +328,12 @@ http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWE1
 
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南台",湖南都市
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTFlYWVjZGFkOWI3NzVlNTJhODhmZmJkMzQyODFjYmQyJmVzPTE3MDE3Njk1MDgmdXVpZD02YWFhN2YzOGMxNDM3ZmFmMWQ1NzQwMWM5ZmMyYjAzOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",凤凰卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="GNTV" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",翡翠台
+https://pi.0472.org/tv/fct.php?auth=230918
