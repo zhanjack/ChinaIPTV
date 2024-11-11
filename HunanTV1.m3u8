@@ -324,3 +324,35 @@ http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门2" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",澳门2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-name="阳光卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+
+
+#EXTINF:-1 tvg-name="香港卫视HKS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+
+#EXTINF:-1 tvg-name="香港卫视HKS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-name="香港卫视HKS" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cccf55128bf742ce457acad1-157172349983557&wsIPSercert=3dab7a51fc14b26ed94d5777cdd9484a&wsMonitor=0
+
+#EXTINF:-1 tvg-name="環球电视台 香港" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",環球电视台 香港
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+#EXTINF:-1 tvg-name="香港-環球电视台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",香港-環球电视台
+https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
+
+#EXTINF:-1 tvg-name="Bread TV面包台" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",Bread TV面包台
+#EXTINF:-1 ,
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
