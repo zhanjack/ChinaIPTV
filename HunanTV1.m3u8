@@ -344,3 +344,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-name="STAR TV SD" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",STAR TV SD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-name="fashion tv" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台",fashion tv
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
